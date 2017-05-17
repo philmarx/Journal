@@ -1,0 +1,2 @@
+/room/findMyJoinRooms中的元素添加一个evaluated变量，1为已经评价过，0为未评价。
+/friend/findRoomFriends 元素添加一个变量 point，int类型，表示评价的分数。如果为0表示未评价
